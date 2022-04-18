@@ -27,3 +27,8 @@
 
 **Node**
 
+## Screen Shots of the App
+
+<img width="937" alt="restaurant1" src="https://user-images.githubusercontent.com/76002896/163873969-ea8ec939-0012-4ce3-a854-56ae6abdf158.PNG">
+
+<img width="944" alt="restaurant2" src="https://user-images.githubusercontent.com/76002896/163873991-9b7b6fce-d392-4c47-9872-cf043dcc9922.PNG">
