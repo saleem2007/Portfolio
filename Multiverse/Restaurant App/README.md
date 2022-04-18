@@ -1,4 +1,8 @@
-# How To Start The Project
+# About The Restaurant App
+
+**This App was created to give 
+
+## How To Start The Project
 
 **Step 1) npm run start**
 
@@ -10,4 +14,9 @@
 
 ## Technologies Used
 
+**Visual Studio Code**
+**Express**
+**Sequelize**
+**Sqlite3**
+**Node**
 
