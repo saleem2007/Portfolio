@@ -11,3 +11,5 @@
 ## Screen Shots of the Project
 
 <img width="670" alt="scooter app1" src="https://user-images.githubusercontent.com/76002896/163848700-9b28f3cf-75db-402d-b24f-12573a106041.PNG">
+
+<img width="668" alt="scooter app2" src="https://user-images.githubusercontent.com/76002896/163851613-c23d01ed-c538-47e5-a9ff-ac988c607818.PNG">
