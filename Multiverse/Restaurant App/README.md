@@ -15,7 +15,9 @@
 ## Technologies Used
 
 **Visual Studio Code**
+
 **Express**
+
 **Sequelize**
 **Sqlite3**
 **Node**
