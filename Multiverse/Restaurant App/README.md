@@ -1,6 +1,6 @@
 # About The Restaurant App
 
-**This App was created to give 
+**This App will give you access to Different Restaurants Menu and you are also able to add new Restaurant by submitting the form, website has nice background with striking images and has restaurant logo with image.**
 
 ## How To Start The Project
 
@@ -19,6 +19,8 @@
 **Express**
 
 **Sequelize**
+
 **Sqlite3**
+
 **Node**
 
