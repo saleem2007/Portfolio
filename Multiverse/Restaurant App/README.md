@@ -1,4 +1,4 @@
-<img width="700" alt="restaurant" src="https://user-images.githubusercontent.com/76002896/163872928-3dbac19a-74b2-40af-974b-44412176d38e.PNG">
+<img width="944" alt="restaurant" src="https://user-images.githubusercontent.com/76002896/163873131-da28e0de-44ea-42e9-acf8-ab43508b7da4.PNG">
 
 
 # About The Restaurant App
