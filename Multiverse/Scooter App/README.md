@@ -1,6 +1,6 @@
 # Project Set-up
-**npm install
+** npm install
 
 ## To Run the project
-**npm test
+** npm test
 
