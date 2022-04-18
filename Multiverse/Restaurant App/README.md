@@ -1,3 +1,6 @@
+<img width="700" alt="restaurant" src="https://user-images.githubusercontent.com/76002896/163872928-3dbac19a-74b2-40af-974b-44412176d38e.PNG">
+
+
 # About The Restaurant App
 
 **This App will give you access to Different Restaurants Menu and you are also able to add new Restaurant by submitting the form, website has nice background with striking images and has restaurant logo with image.**
