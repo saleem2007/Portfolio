@@ -6,4 +6,8 @@
 
 **Step 3) localhost:8000/restaurants (This will take you to the site with all the Restaurants)**
 
+**Step 4) localhost:8000/new-restaurant-form (In order to create new Restaurant)**
+
+## Technologies Used
+
 
