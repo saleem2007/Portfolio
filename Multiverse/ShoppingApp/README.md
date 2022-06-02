@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/76002896/171682413-af2c2131-6803-41c8-92bc-990df6140806.png)
+
+
 # About the Project
 ### This is a Shopping App project where you can look at the main page with few items listed. The menu has different warehouse listed along with categories and you can also see all the items on a page.
 
