@@ -13,3 +13,5 @@
 
 **http://strawberriespro.herokuapp.com/**
 
+# Project Functionalities
+
