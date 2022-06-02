@@ -17,4 +17,6 @@
 
 * **The app has a register user function where you can submit the information, but it is currently not in use.**
 * **The app has three sub-menu Warehouses, Categories, Items. A user can click on each warehouse and view the items in it, you can also add items, update the prices or even delete an item if needed.**
-* 
+* **You can also see all the items in one page.**
+
+
