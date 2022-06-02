@@ -23,6 +23,12 @@
 
 **Visual Studio Code**
 
+**HTML**
+
+**CSS**
+
+**Javascript**
+
 **Express**
 
 **Sequelize**
