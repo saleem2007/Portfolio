@@ -8,6 +8,7 @@
 * **A user can add employee information where the program will create unique employee ID automatically.**
 * **A user can make an employee inactive and display employees record information.**
 * **A user can also display active employees count and can also obtain inative employees information.**
+* **All the information is retrieved from mysql database and stored there.**
 
 # Technologies 
 
@@ -16,4 +17,5 @@
 
 # Screen Shots
 
+![emp](https://user-images.githubusercontent.com/76002896/171719638-7c879490-56c4-44e3-98ff-dc2f6890462e.PNG)
 
