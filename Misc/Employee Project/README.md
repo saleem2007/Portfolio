@@ -17,5 +17,10 @@
 
 # Screen Shots
 
+### Program start
+
 ![emp](https://user-images.githubusercontent.com/76002896/171719638-7c879490-56c4-44e3-98ff-dc2f6890462e.PNG)
 
+### Display all employees information
+
+![emp-1](https://user-images.githubusercontent.com/76002896/171719965-7d2d0ea1-3722-49e0-bac2-5822a8845d87.PNG)
