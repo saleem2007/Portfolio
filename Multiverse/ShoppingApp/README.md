@@ -15,3 +15,4 @@
 
 # Project Functionalities
 
+* The app has a register user function where you can submit the information, but it is currently not in use.
