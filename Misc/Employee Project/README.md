@@ -24,3 +24,12 @@
 ### Display all employees information
 
 ![emp-1](https://user-images.githubusercontent.com/76002896/171719965-7d2d0ea1-3722-49e0-bac2-5822a8845d87.PNG)
+
+### Display in-active employees information
+
+![emp-2](https://user-images.githubusercontent.com/76002896/171720354-a42d3370-5269-4542-a42c-984cac779e6d.PNG)
+
+### Display active employees count
+
+
+![emp-3](https://user-images.githubusercontent.com/76002896/171720412-a8a6af29-b405-4464-9ccc-75100627fa80.PNG)
