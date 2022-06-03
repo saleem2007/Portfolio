@@ -5,6 +5,11 @@
 
 **This App will give you access to Different Restaurants Menu and you are also able to add new Restaurant by submitting the form, website has nice background with striking images and has restaurant logo with image.**
 
+## Job Functions
+
+* **Understands how to develop effective user interfaces.**
+*
+
 ## How To Start The Project
 
 **Step 1) npm run start**
