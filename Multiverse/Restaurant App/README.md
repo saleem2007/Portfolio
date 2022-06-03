@@ -8,7 +8,7 @@
 ## Job Functions
 
 * **Understands how to develop effective user interfaces.**
-*
+* **Able to create simple software designs to effectively communicate understanding of the program.**
 
 ## How To Start The Project
 
