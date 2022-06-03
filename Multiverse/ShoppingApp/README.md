@@ -24,7 +24,10 @@
 
 # Job Functions
 
-* **
+* **Understands how to develop effective user interfaces.**
+* **Able to create simple software designs to effectively communicate understanding of the program.**
+* **Is able to build, manage and deploy code into the relevant environment.**
+
 # Technologies Used
 
 **Visual Studio Code**
