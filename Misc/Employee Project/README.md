@@ -10,6 +10,12 @@
 * **A user can also display active employees count and can also obtain inative employees information.**
 * **All the information is retrieved from mysql database and stored there.**
 
+# Job Functions
+
+* **Understands how to develop effective user interfaces.**
+* **Able to create simple software designs to effectively communicate understanding of the program.**
+* **Knows the principles of algorithms, logic and data structures relevant to software development (e.g., Arrays, Stacks, Queues, Linked Lists, Trees, Graphs, Hash Tables, Sorting Algorithms, Searching Algorithms, Critical sections and race conditions).**
+
 # Technologies 
 
 * **Eclipse IDE**
